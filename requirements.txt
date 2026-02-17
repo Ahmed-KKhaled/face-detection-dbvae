@@ -3,6 +3,5 @@ torchvision
 torchaudio
 numpy
 matplotlib
-pillow
-mitdeeplearning
 streamlit
+
