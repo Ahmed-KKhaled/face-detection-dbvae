@@ -62,12 +62,3 @@ The app is ready for deployment on Streamlit Cloud
 Make sure to include all files (app.py, Debiasing_Facial_Detection_Systems.py, dbvae_weights.pth) in your GitHub repo.
 
 Ensure requirements.txt lists all necessary dependencies.
-
-👤 Author
-
-Ahmed Khaled
-Email: zakreahmed666@example.com
-
-CelebA Dataset: http://mmlab.ie.cuhk.edu.hk/projects/CelebA.html
-
-MIT Deep Learning Library: https://github.com/mitdeeplearning/mitdeeplearning
